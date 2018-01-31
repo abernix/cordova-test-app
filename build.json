@@ -1,0 +1,12 @@
+{
+  "ios": {
+    "debug": {
+      "developmentTeam": "XN5XB72F7A"
+    },
+    "release": {
+      "developmentTeam": "XN5XB72F7A",
+      "codeSignIdentity": "iPhone Developer",
+      "packageType": "ad-hoc"
+    }
+  }
+}
